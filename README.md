@@ -1,4 +1,4 @@
-# Hi, I’m Rohi Tariq 👋
+# Hi, I’m Doctor Rohi Tariq 
 
 I am a computer science researcher working at the intersection of machine learning, graph analytics, biosignal analysis, and AI for health.
 
