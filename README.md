@@ -1,9 +1,8 @@
-
 # Rohi Tariq
 
-**Computer Science Researcher | EEG Signal Analysis | AI for Health | Graph Clustering**
+### Computer Science Researcher | EEG Signal Analysis | AI for Health | Graph Clustering
 
-I am a computer science researcher working on EEG signal analysis, machine learning, and AI for Health, with established research contributions in graph clustering, community detection, and complex networks **.
+I am a computer science researcher working on **EEG signal analysis, machine learning, and AI for Health**, with established research contributions in **graph clustering and community detection**.
 
 ---
 
@@ -22,12 +21,9 @@ My research investigates machine-learning methods for EEG signals, with emphasis
 
 My graph-clustering research includes:
 
-- Partitioning and overlapping graph clustering
-- User-specified relative density
-- Clique-based and edge-based cluster expansion
-- Community detection in complex networks
-- Graph-clustering quality evaluation
-- Mean Relative Density Deviation Coefficient (MRDDC)
+- Partitioning and overlapping clustering with user-specified relative density
+- Clique-based and Edge-based cluster expansion algorithms
+- Cluster-quality evaluation (MRDDC)
 
 ---
 
@@ -39,16 +35,18 @@ A reproducible Python implementation of my published partitioning graph-clusteri
 
 The algorithm begins with graph triangles and expands non-overlapping clusters while monitoring a user-selected relative density.
 
-**Software features**
+**Software features:**
 
 - User-specified target density
 - Non-overlapping cluster discovery
 - CSV, JSON, and human-readable results
-- MRDDC and recorded-edge coverage
+- Mean Relative Density Deviation Coefficient (MRDDC)
+- Recorded-edge coverage
+- Unclustered-node reporting
 - Automated reproducibility tests
 - Deterministic cluster visualization
 
-> My broader research also includes an edge-based method for partitioning and overlapping graph clustering. The current software release implements the clique-based partitioning algorithm.
+> My broader graph-clustering research also includes an edge-based method for partitioning and overlapping graph clustering. The current software release implements the partitioning algorithm.
 
 ---
 
@@ -56,13 +54,13 @@ The algorithm begins with graph triangles and expands non-overlapping clusters w
 
 ### Partitioning Graph Clustering With User-Specified Density
 
-R. Tariq, K. Lavangnananda, P. Bouvry, and P. Mongkolnam  
+**R. Tariq, K. Lavangnananda, P. Bouvry, and P. Mongkolnam**  
 *IEEE Access*, vol. 11, pp. 122273–122294, 2023  
 [DOI: 10.1109/ACCESS.2023.3329429](https://doi.org/10.1109/ACCESS.2023.3329429)
 
 ### An Edge-Based Approach to Partitioning and Overlapping Graph Clustering with User-Specified Density
 
-R. Tariq, K. Lavangnananda, P. Bouvry, and P. Mongkolnam  
+**R. Tariq, K. Lavangnananda, P. Bouvry, and P. Mongkolnam**  
 *Applied Sciences*, vol. 14, no. 1, article 380, 2024  
 [DOI: 10.3390/app14010380](https://doi.org/10.3390/app14010380)
 
@@ -74,13 +72,17 @@ R. Tariq, K. Lavangnananda, P. Bouvry, and P. Mongkolnam
 
 ---
 
+## Current Work
+
+I am currently developing EEG signal-analysis methods (work in progress). 
+Code and results will be added to this profile once complete.
+
+---
+
 ## Research Profiles
 
-[ResearchGate](https://www.researchgate.net/profile/Rohi-Tariq?ev=hdr_xprf) ·
-[LinkedIn](https://www.linkedin.com/in/dr-rohi
+[ResearchGate](https://www.researchgate.net/profile/Rohi-Tariq?ev=hdr_xprf) · [LinkedIn](https://www.linkedin.com/in/dr-rohi-tariq-54951b1a5/) · [ORCID](https://orcid.org/0009-0002-7928-8942)
 
-## Research Profiles
+---
 
-- https://www.researchgate.net/profile/Rohi-Tariq?ev=hdr_xprf
-- https://www.linkedin.com/in/dr-rohi-tariq-54951b1a5/
-- https://orcid.org/my-orcid?orcid=0009-0002-7928-8942
+> **Research direction:** Reproducible and trustworthy machine-learning methods for EEG signal analysis and AI for Health, supported by expertise in graph clustering and complex-network analysis.
